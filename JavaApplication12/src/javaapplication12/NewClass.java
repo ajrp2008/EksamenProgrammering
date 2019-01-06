@@ -10,5 +10,5 @@ package javaapplication12;
  * @author Anders
  */
 public class NewClass {
-    
+    //hej
 }
